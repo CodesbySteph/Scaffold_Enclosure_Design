@@ -1,0 +1,11 @@
+graph TD
+    A[Enclosure: 168 ft x 40 ft x 55 ft] --> B[Bow Door: 8 ft x 10 ft]
+    A --> C[Stern Door + 12 ft Opening]
+    A --> D[Side Doors: 4 per side, adjustable]
+    A --> E[Vessel: 154 ft x 26 ft, 45 ft height]
+    E --> F[12" Clearance from Hull]
+    E --> G[Platforms: Portside 01, Stern Tubes]
+    A --> H[Ladders: 4 Corners]
+    A --> I[Roof: Sloped, Shrink Wrap]
+    A --> J[Weights: Every 10 ft]
+    A --> K[Fixed Obstacles: Adjustable Staging]
