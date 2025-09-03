@@ -1,3 +1,8 @@
+---
+title: Scaffold Enclosure Design
+---
+# Scaffolding/Containment Enclosure Design
+```mermaid
 graph TD
     A[Enclosure: 168 ft x 40 ft x 55 ft] --> B[Bow Door: 8 ft x 10 ft]
     A --> C[Stern Door + 12 ft Opening]
